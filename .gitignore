@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+#Adding environmental file
+
+*.env
+=======
+/tmp
+secret.txt
+>>>>>>> 5080ca9 (git ignore added)
